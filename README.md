@@ -1,15 +1,3 @@
 # 👋 Hi, I'm Ugonna Onyejekwe
 
-A **Senior Frontend Developer** with a strong focus on building high-performance, scalable, and user-centered web applications. I currently lead the frontend team at **Olivia Stores**, where I’m responsible for architecting and implementing modern interfaces that power our business solutions.
-
-In my role, I design and manage the structure of complex frontend systems using **React**, **Next.js**, and **TypeScript**, ensuring every product we ship is clean, maintainable, and optimized for performance. I lead code reviews, mentor junior developers, and collaborate closely with backend engineers and designers to deliver seamless user experiences. I also take ownership of building and maintaining our shared component libraries, enforcing best practices across the codebase, and continuously improving the overall frontend architecture. My daily work is centered around turning business needs into intuitive, responsive, and accessible interfaces that scale with our users.
-
----
-
-### 🧰 Tech Stack
-
-**Languages:** JavaScript, TypeScript, HTML5, CSS3, Sass  
-**Frameworks & Libraries:** React, Next.js, Tailwind CSS, Styled Components  
-**Tools:** Git, GitHub, Vite, Webpack, Figma, Storybook  
-**Others:** REST APIs, Firebase, Supabase, Framer Motion
-
+I'm a Senior Frontend Developer with a deep passion for creating seamless, responsive, and scalable web experiences that genuinely serve users. Currently, I lead the frontend team at Olivia Stores, where I’m responsible for shaping the architecture of our web applications, driving development standards, and mentoring other engineers. My day-to-day work involves transforming complex product ideas into intuitive interfaces using React, Next.js, and TypeScript. I pay strong attention to performance, accessibility, and design consistency, ensuring that every component we build is reusable, maintainable, and aligned with our long-term goals. Beyond writing code, I work closely with designers, backend developers, and product managers to bridge the gap between vision and execution—making sure every feature we deliver not only works but feels right to the user. I care about quality, teamwork, and building solutions that help people and businesses succeed.
